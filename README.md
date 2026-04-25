@@ -1,4 +1,4 @@
-# 🤖 Project StudyX: Oracle Cloud Proxy for Claude Code
+ Oracle Cloud Proxy for Claude Code
 
 This is the definitive guide to hosting a high-performance, **zero-cost** AI development environment. By the end of this guide, you will have a 24/7 server in the cloud acting as a brain for your **Claude Code CLI**.
 
